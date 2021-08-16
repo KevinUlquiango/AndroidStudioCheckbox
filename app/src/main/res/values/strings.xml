@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KevinUlquiangoCheckBox</string>
+    <string name="txt_valor1">Ingrese el primer valor</string>
+    <string name="txt_valor2">Ingrese el segundo valor</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="cbx_suma">Suma</string>
+    <string name="cbx_resta">Resta</string>
+    <string name="txt_resultado">Resultado</string>
+
+</resources>
